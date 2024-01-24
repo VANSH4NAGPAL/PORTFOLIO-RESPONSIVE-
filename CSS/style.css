@@ -117,6 +117,7 @@ nav.sticky .menu-btn{
   background-size: cover;
   background-position: center center;
   background-attachment: fixed;
+
 }
 .home .home-content{
   width:90%;
@@ -259,7 +260,7 @@ section .button button:hover{
   background:url(/IMG/Main2.png);
   background-repeat: no-repeat;
   background-size: cover;
-  background:fixed;
+  background-attachment: fixed;
 }
 .services .boxes{
    display:flex; 
@@ -362,6 +363,7 @@ footer .text span a:hover{
     background: url(/IMG/main6.png);
     background-repeat: none;
     background-size: cover;
+    background-attachment: fixed;
 }
 /* Responsive Media Queries */
 @media (max-width:1190px){
