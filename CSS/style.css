@@ -259,6 +259,7 @@ section .button button:hover{
   background:url(/IMG/Main2.png);
   background-repeat: no-repeat;
   background-size: cover;
+  background:fixed;
 }
 .services .boxes{
    display:flex; 
